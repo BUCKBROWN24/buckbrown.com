@@ -1,0 +1,9 @@
+/* Set color for links */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkblue;
+}
